@@ -1,0 +1,10 @@
+{
+  "name": "ipfs-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs": "^0.28.2",
+    "ipfs-pubsub-room": "^1.2.0"
+  }
+}
